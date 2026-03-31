@@ -1,0 +1,11 @@
+Dados dos itens do supermercado: 
+Item: Feijao	Valor: 12,99
+Item: Arroz	Valor: 16,49
+Item: Molho	Valor: 10,99
+Item: Milho enlatado	Valor: 7,99
+Item: Papel higienico	Valor: 15,99
+Item: Detergente	Valor: 5,99
+Item: Sorvete	Valor: 17,99
+Item: Vinho	Valor: 23,99
+Item: Vassoura	Valor: 4,99
+Item: BomBril	Valor: 3,99
