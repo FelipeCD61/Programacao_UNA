@@ -2,7 +2,7 @@
 
 # 🎓 Algoritmos e Técnicas de Programação: 1°/2023
 
-Este repositório contém todos os códigos e estudos desenvolvidos durante o primeiro período da faculdade UNA de Cinência da Computação.
+Este repositório contém todos os códigos e estudos desenvolvidos durante o primeiro período da faculdade UNA de Ciência da Computação.
 
 ## 📌 Conteúdos e Categorias
 
