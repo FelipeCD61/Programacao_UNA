@@ -25,8 +25,8 @@ Durante este semestre, explorei os pilares fundamentais da programação:
 
 ## 🛠️ Tecnologias de Estudo
 
-* **Linguagem Principal:** <img src="images/java.png" alt="Logo java" height="20">Java
-* **Ferramentas Utilizadas:** <img src="images/VScode" alt="Logo VScode" height="20">Visual Studio Code (VS Code)
+* **Linguagem Principal:** <img src="images/java.png" alt="Logo java" height="20"> Java
+* **Ferramentas Utilizadas:** <img src="images/VScode.png" alt="Logo VScode" height="20"> Visual Studio Code (VS Code)
 
 ---
 *Desenvolvido por Felipe Claver Diniz*
