@@ -1,0 +1,6 @@
+Dados dos alunos: 
+Aluno: Artur	Nota Final: 98.0
+Aluno: Jo�o	Nota Final: 87.0
+Aluno: Maria	Nota Final: 95.0
+Aluno: Guilherme	Nota Final: 92.0
+Aluno: Ana	Nota Final: 85.0
